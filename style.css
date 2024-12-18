@@ -1,0 +1,126 @@
+body{
+  background-color: blanchedalmond;
+}
+.nav {
+  display: flex;
+  justify-content: space-between; 
+  background-color: gray;
+  }
+  
+  a:hover {
+    color: yellow;
+  }
+    
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  li {
+    list-style: none;
+  }
+  #about-us {
+    background-color:  #007FB7; 
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+
+  #about-us h2 {
+    color: black; 
+    margin-bottom: 15px;
+  }
+
+  #about-us p {
+    line-height: 1.6;
+    color: black; 
+  }
+  #courses {
+    background-color: #007FB7; 
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+
+  #courses h2 {
+    color: black; 
+    margin-bottom: 15px;
+  }
+
+  #courses p {
+    line-height: 1.6;
+    color: black; 
+  }
+
+  #courses ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  #courses li {
+    margin-bottom: 20px;
+  }
+
+  #courses h3 {
+    color: black; 
+    margin-bottom: 10px;
+  }
+  #admission {
+    background-color: #007FB7; 
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+
+  #admission h2 {
+    color: black; 
+    margin-bottom: 15px;
+  }
+
+  #admission p {
+    line-height: 1.6;
+    color: black; 
+  }
+
+  #admission button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #contact-us {
+    background-color: #007FB7; 
+    padding: 20px;
+    border-radius: 5px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+
+  #contact-us h2 {
+    color: black; 
+    margin-bottom: 15px;
+  }
+
+  #contact-us p {
+    line-height: 1.6;
+    color: black; 
+  }
+
+  #contact-us ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  #contact-us li {
+    margin-bottom: 20px;
+  }
+
+  #contact-us h3 {
+    color: black; 
+    margin-bottom: 10px;
+  }
