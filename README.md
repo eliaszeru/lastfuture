@@ -10,4 +10,4 @@ Features
 
 Live Demo
 
-Check out the live version of the portal here: FutureCoders Application Portal
+Check out the live version of the portal here: https://eliaszeru.github.io/lastfuture/
